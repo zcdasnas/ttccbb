@@ -4,6 +4,8 @@
   "apkUrl": "https://play.google.com/",
   "changelog": "Minor Changes",
   "update_pop": "1",
+  "notice_status": "0",
+  "notice":"",
   "notice_status": "1",
-  "notice":"প্রত্যেক বরাদ্দের পণ্য বিক্রয়ের ক্ষেত্রে টিসিবি কার্ডের ছবি আলাদাভাবে তুলতে হবে"
+  "dealer_notice":"প্রত্যেক বরাদ্দের পণ্য বিক্রয়ের ক্ষেত্রে টিসিবি কার্ডের ছবি আলাদাভাবে তুলতে হবে"
 }
